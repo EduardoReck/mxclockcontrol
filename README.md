@@ -1,16 +1,28 @@
-# mxclockcontrol
+# ControleClck
 
-A new Flutter project.
+A Flutter application developed as part of my studies and practice.  
+The project is based on the default Flutter template but extended with additional folders and code organization.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Built with **Flutter** and **Dart**
+- Follows the **Flutter project structure** with custom folders for better organization
+- Ready to run on Android, iOS, Web, or Desktop
+- Easy to expand and customize
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Requirements
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Dart SDK (already included with Flutter)
+- Android Studio / VS Code with Flutter extension (recommended)
+- Git installed for version control
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ▶️ Running the Project
+Clone the repository:
+```bash
+git clone https://github.com/your-username/ControleClck.git
+cd ControleClck
